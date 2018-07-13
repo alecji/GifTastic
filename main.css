@@ -1,0 +1,13 @@
+.animalBtn {
+    padding: 5px 20px;
+    margin: 10px;
+    background-color: teal;
+    color: black;
+}
+
+.giphyImages{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
